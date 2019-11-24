@@ -5,7 +5,7 @@ Le fond affiché est scindéz entre l’image de fond et le bandeau.
 L’incrustation d’une image logo par-dessus le fond de permet de visualiser l’équipement en question.
 Il est possible également d’afficher ou non de l’unité de mesure.
 Ce widget bascule automatiquement du thème sombre au clair et adapte le fond du widget en conséquence.
-Le choix du bandeau se fait automatiquement en fonction d'une plage définie par des valeurs min et max. Le pas de changement de couleur s’adapte automatiquement.
+Le choix du bandeau se fait automatiquement en fonction d'une plage définie par des valeurs min et max. Le pas de changement de couleur s’adapte automatiquement. Il y a 10 couleurs de bandeau (aqua, blue, lime, yellow, lightsalmon, orange, darkorange, red, darkred, black).
 
 Plusieurs paramètres sont à prendre en compte pour l’utilisation de ce widget :
 
