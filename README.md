@@ -1,7 +1,7 @@
 # num-superpose
  Widget avec superposition des éléments d'affichage
 
-Le fond affiché est scindéz entre l’image de fond et le bandeau.
+Le fond affiché est scindé entre l’image de fond et le bandeau.
 L’incrustation d’une image logo par-dessus le fond de permet de visualiser l’équipement en question.
 Il est possible également d’afficher ou non de l’unité de mesure.
 Ce widget bascule automatiquement du thème sombre au clair et adapte le fond du widget en conséquence.
