@@ -16,7 +16,6 @@
 			top:82%;
 			left:0%;
 			width:85px;
-			height:85px;
 			z-index:4;
 		}
 		div.unite#uid# {
@@ -25,7 +24,6 @@
 			position:absolute;
 			top:60%;
 			width:85px;
-			height:85px;
 			z-index:4;
 			letter-spacing:0px;
 		}
@@ -36,7 +34,6 @@
 			top:30%;
 			right:0%;
 			width:85px;
-			height:85px;
 			z-index:4;
 			letter-spacing:0px;
 		}
@@ -47,7 +44,6 @@
 			top:34%;
 			right:0%;
 			width:85px;
-			height:85px;
 			z-index:4;
 			letter-spacing:0px;
 		}
